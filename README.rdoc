@@ -7,4 +7,7 @@ What it has:
 4. Users can choose to add a stock from results of search to their portfolio
 5. Users can look for friends, or other users of the app, by name(first or last) or email
 6. Users can view portfolio of stocks their friends are tracking
-7. Must be mobile friendly (responsive styling)
+7. Mobile friendly (responsive styling)
+
+HEROKU link:
+https://rorfinancetracker.herokuapp.com
